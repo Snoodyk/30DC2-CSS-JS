@@ -1,1 +1,2 @@
-# 30DC2-CSS-JS
+# 30Day javascript challenge 2
+CSS + JS Clock
